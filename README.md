@@ -47,7 +47,7 @@ others:
 ```yaml
 # technology stack
 
-lang: Javascript
+lang: TypeScript
 
 library:
     - React
