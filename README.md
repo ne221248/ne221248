@@ -43,7 +43,7 @@ others:
 ```
 
 ## Miyatsu Project (March 28, 2024 ~ Now)
-
+https://senshu-z.vercel.app/
 ```yaml
 # technology stack
 
