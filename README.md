@@ -71,10 +71,9 @@ This GitHub account will no longer be available in March 2026 as it uses a unive
 
 <!--
 This GitHub account is no longer available because it uses a university email address.
-<br>
-I have created a new account, please check it out
-<p>
-  https://github.com/newUsername
-</p>
 -->
+
+<br>
+I have created a new account, please check it out　[https://github.com/asada216]
+
      
