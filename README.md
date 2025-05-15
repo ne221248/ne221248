@@ -1,5 +1,5 @@
 # Introduction
-Welcome to my page! I am a junior at a Japanese university majoring in Computer Science.
+Welcome to my page! I am a college senior at a Japanese university majoring in Computer Science.
 <p align="left">
   <a href="https://github.com/ne221248/ne221248/">
     <img src="https://komarev.com/ghpvc/?username=ne221248" alt="ne221248" />
