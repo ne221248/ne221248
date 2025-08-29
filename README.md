@@ -17,30 +17,6 @@ Welcome to my page! I am a college senior at a Japanese university majoring in C
 
 # Profile
 
-## Miyatsu Project (March 28, 2024 ~ January 22, 2025)
-https://senshu-z.vercel.app/
-```yaml
-# technology stack
-
-lang: TypeScript
-
-library:
-    - React
-    - Tailwind CSS
-
-flamework:
-    - Remix
-
-data base:
-    - PosgreSQL
-
-others:
-    - GitHub
-    - Clerk
-    - Vercel
-
-```
-
 ## University class (April 1, 2022 ~ Now)
 
 ```yaml
@@ -63,6 +39,29 @@ others:
     - Docker
     - anaconda
     - alife
+
+```
+## Miyatsu Project (March 28, 2024 ~ January 22, 2025)
+https://senshu-z.vercel.app/
+```yaml
+# technology stack
+
+lang: TypeScript
+
+library:
+    - React
+    - Tailwind CSS
+
+flamework:
+    - Remix
+
+data base:
+    - PosgreSQL
+
+others:
+    - GitHub
+    - Clerk
+    - Vercel
 
 ```
 
