@@ -30,12 +30,14 @@ lang:
 
 flamework:
     - Ruby on Rails
+    - Vue.js
 
 data base: 
     - MySQL
 
 others:
-    - Unix
+    - Linux
+    - Wireshark
     - Docker
     - anaconda
     - alife
