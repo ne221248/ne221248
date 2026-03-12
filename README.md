@@ -46,6 +46,7 @@ others:
 ```
 ## Miyatsu Project (March 28, 2024 ~ January 22, 2025)
 https://senshu-z.vercel.app/
+[Activity record](https://docs.craft.do/editor/d/df78fd0b-f354-f962-1d12-144f3b47b3b9/439C1F1E-A738-4A91-81AE-4CF64611FE83?s=W6NcAP3oXvgQ6sRHVTGgo9NTS6iJx66KbpZUh6uBGdhi)
 ```yaml
 # technology stack
 
