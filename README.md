@@ -17,7 +17,7 @@ Welcome to my page! I am a college senior at a Japanese university majoring in C
 
 # Profile
 
-## University class (April 1, 2022 ~ Feburuary 6, 2026)
+## University class (April 1, 2022 ~ February 6, 2026)
 
 ```yaml
 
