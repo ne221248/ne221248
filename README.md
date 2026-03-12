@@ -17,7 +17,7 @@ Welcome to my page! I am a college senior at a Japanese university majoring in C
 
 # Profile
 
-## University class (April 1, 2022 ~ Now)
+## University class (April 1, 2022 ~ Feburuary 6, 2026)
 
 ```yaml
 
@@ -36,6 +36,7 @@ data base:
     - MySQL
 
 others:
+    - AWS
     - Linux
     - Wireshark
     - Docker
@@ -68,11 +69,12 @@ others:
 ```
 
 # Supplement
-This GitHub account will no longer be available in March 2026 as it uses a university email address.
-
 <!--
-This GitHub account is no longer available because it uses a university email address.
+This GitHub account will no longer be available in March 2026 as it uses a university email address.
 -->
+
+This GitHub account is no longer available because it uses a university email address.
+
 
 <br>
 I have created a new account, please check it out　[https://github.com/asada216]
